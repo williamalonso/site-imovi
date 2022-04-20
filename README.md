@@ -3,7 +3,7 @@
 </h1>
 
 <div align="center">
-  <img src="#" alt"Home Page" title="Sistema de casas planejadas" width="600" />
+  <img src="https://github.com/williamalonso/site-imovi/blob/master/_img/home.png" alt"Home Page" title="Sistema de casas planejadas" width="600" />
   
 
 ---
@@ -14,7 +14,7 @@
 
 ### 🤔 Sobre o iMovi?
 
-É um pequeno site feito em Bootstrap 5 para aprender sobre as novidades da atualização.
+É um pequeno site feito em Bootstrap 5 para conhecer as novidades da atualização.
 
 ---
 
@@ -44,7 +44,7 @@ Caso queira, clone ou faça o downlod desse repositório:
 
 ```
 # Clone o repositório
-$ git clone git@github.com:williamalonso/sistema-cadastro-reunioes.git
+$ git clone git@github.com:williamalonso/site-imovi.git
 ```
 
 <h3 align="center">William Alonso</h3>
